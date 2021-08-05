@@ -1,0 +1,24 @@
+{
+  "deluge": {
+    "url": "",
+    "password": "",
+    "downloadLocation": ""
+  },
+  "barkKey": "",
+  "site":{
+    "bs": {
+      "url": "https://brokenstones.club",
+      "path": "/ajax.php?action=browse",
+      "authkey": "",
+      "torrentPass": "",
+      "cookie": ""
+    },
+    "gpw": {
+      "url": "https://greatposterwall.com",
+      "path": "/ajax.php?action=notifications",
+      "authkey": "",
+      "torrentPass": "",
+      "cookie": ""
+    }
+  }
+}
